@@ -1,0 +1,13 @@
+name: geneticalgo
+version: 0.1.0
+
+authors:
+  - Ingo Richter <ingo.richter+github@gmail.com>
+
+targets:
+  geneticalgo:
+    main: src/geneticalgo.cr
+
+crystal: 0.27.2
+
+license: MIT
